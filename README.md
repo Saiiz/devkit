@@ -2,7 +2,9 @@
 
 > V1 — first public release
 
-A fast, open-source developer toolbox for everyday tasks.
+A fast, open-source developer toolbox with 40+ utilities.
+
+🚀 Live Demo: https://saiiz.github.io/devkit/
 
 ## Features
 
