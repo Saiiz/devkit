@@ -79,3 +79,8 @@ The V1 release specifically hardens common edge cases and the expanded tool set:
 ## GitHub Pages
 
 This release is configured for `https://saiiz.github.io/devkit/` through `.github/workflows/deploy-pages.yml` and Vite `base: "/devkit/"`.
+
+
+## 🌍 Language
+
+DevKit automatically detects the browser language on first visit (French or English). The user can override it with the FR/EN button; the preference is stored locally.
